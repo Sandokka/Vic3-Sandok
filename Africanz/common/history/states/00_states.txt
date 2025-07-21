@@ -3686,7 +3686,7 @@ STATES = {
 			owned_provinces = { x37D8C4 }
 		}
 
-		add_homeland = cu:rajput
+		add_homeland = cu:hindustani
 	}
 	s:STATE_CIRCARS = {
 		create_state = {
@@ -3733,11 +3733,8 @@ STATES = {
 		}
 
 		add_homeland = cu:marathi
-		add_homeland = cu:chhattisgarhi
 		add_homeland = cu:gondi
-		add_homeland = cu:deccani
-		add_homeland = cu:bageli
-		add_homeland = cu:bundeli
+		add_homeland = cu:hindustani
 	}
 	s:STATE_MYSORE = {
 		create_state = {
@@ -3750,7 +3747,7 @@ STATES = {
 		}
 
 		add_homeland = cu:kannada
-	    add_homeland = cu:deccani
+	    add_homeland = cu:hindustani
 	}
 	s:STATE_TRAVANCORE = {
 		create_state = {
@@ -3815,7 +3812,7 @@ STATES = {
 			owned_provinces = { xC5F1D7 x75599C xD07020 x990C20 x4FCA8A x5E950F xE2709D x782368 xACAC7B xB4928F x90B0A0 x6C4C5A xC90323 x6B578E x9257D2 xD7D0CD x0607C9 xDE9FE5 x0B9150 x293762 x8729D5 x01F273 xE7E1D9 x774B02 x507020 xD0440A x1E32E0 x2B94C1 x25B964 xE3DECE xFFACEF xF189CD x49EAE4 xB08536 xA1516D x67DBD9 x50F020 xFDC9AD x511610 x78A5B6 x5EC767 xB83EA4 x90F0A0 xDF9BF7 xD9F23D }
 		}
 		add_homeland = cu:telegu
-	    add_homeland = cu:deccani
+	    add_homeland = cu:hindustani
 	    add_homeland = cu:marathi
 	    add_homeland = cu:kannada
 	}
@@ -3881,7 +3878,7 @@ STATES = {
 		}
 
 		add_homeland = cu:marathi
-		add_homeland = cu:bundeli
+		add_homeland = cu:hindustani
 	}
 	s:STATE_BOMBAY = {
 		create_state = {
@@ -3904,7 +3901,7 @@ STATES = {
 
 		add_homeland = cu:marathi
 		add_homeland = cu:kannada
-	    add_homeland = cu:deccani
+	    add_homeland = cu:hindustani
 	}
 	s:STATE_BIHAR = {
 		create_state = {
@@ -8138,7 +8135,7 @@ STATES = {
 
 	    add_homeland = cu:telegu
 	    add_homeland = cu:kannada
-	    add_homeland = cu:deccani
+	    add_homeland = cu:hindustani
 	}
 
 	s:STATE_BUNDELKHAND = {
@@ -8159,9 +8156,7 @@ STATES = {
 	    	owned_provinces = { x52F672 x277419 x9E6DB9 x6170A0 }
 	    }
 
-	    add_homeland = cu:bundeli
-	    add_homeland = cu:bageli
-	    add_homeland = cu:chhattisgarhi
+	    add_homeland = cu:hindustani
 	}
 
 	s:STATE_AGRA = {
