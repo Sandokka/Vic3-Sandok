@@ -1411,7 +1411,7 @@ BAS = {
 	tier = principality
 	social_hierarchy = british_indian_caste_system
 
-	cultures = { gondi telegu }
+	cultures = { oriya telegu }
 	capital = STATE_CENTRAL_PROVINCES
 }
 
@@ -3778,7 +3778,7 @@ BHT = {
 
 	tier = hegemony
 
-	cultures = { assamese avadhi baluchi bengali bihari gujarati kannada malayalam marathi oriya panjabi pathan sindi tamil telegu hindustani pahari gondi }
+	cultures = { assamese avadhi baluchi bengali bihari gujarati kannada malayalam marathi oriya panjabi pathan sindi tamil telegu hindustani pahari }
 	capital = STATE_DELHI
 }
 

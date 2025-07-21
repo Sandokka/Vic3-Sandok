@@ -3733,7 +3733,7 @@ STATES = {
 		}
 
 		add_homeland = cu:marathi
-		add_homeland = cu:gondi
+		add_homeland = cu:oriya
 		add_homeland = cu:hindustani
 	}
 	s:STATE_MYSORE = {

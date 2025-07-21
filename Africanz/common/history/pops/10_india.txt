@@ -934,17 +934,17 @@ POPS = {
 				size = 24010
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				religion = hindu
 				size = 220000
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				religion = animist
 				size = 93020
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				pop_type = slaves
 				religion = animist
 				size = 7003
@@ -969,7 +969,7 @@ POPS = {
 			create_pop = {
 				culture = oriya
 				religion = hindu
-				size = 201021
+				size = 426201
 			}
 			create_pop = {
 				culture = marathi
@@ -987,11 +987,7 @@ POPS = {
 				size = 341201
 			}
 			create_pop = {
-				culture = gondi
-				size = 225180
-			}
-			create_pop = {
-				culture = gondi
+				culture = oriya
 				religion = animist
 				size = 300180
 			}
@@ -1011,11 +1007,11 @@ POPS = {
 				size = 96
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				size = 38235
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				size = 30235
 				religion = animist
 			}
@@ -1027,7 +1023,7 @@ POPS = {
 		}
 		region_state:BAS = {
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				size = 180070
 			}
 			create_pop = {
@@ -1035,7 +1031,7 @@ POPS = {
 				size = 40120
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				religion = sunni
 				size = 16552
 			}
@@ -1045,25 +1041,25 @@ POPS = {
 				size = 10552
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				religion = animist
 				size = 240301
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = gondi
+				culture = oriya
 				religion = animist
 				size = 20070
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = gondi
+				culture = oriya
 				religion = sunni
 				size = 2000
 			}
 			create_pop = {
 				pop_type = slaves
-				culture = gondi
+				culture = oriya
 				size = 25070
 			}
 		}
@@ -1535,7 +1531,7 @@ POPS = {
 				size = 105020
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				size = 30301
 				religion = animist
 			}
@@ -1593,7 +1589,7 @@ POPS = {
 				size = 7010
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				size = 25010
 				religion = animist
 			}
@@ -2167,11 +2163,11 @@ POPS = {
 				size = 8031
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				size = 45222
 			}
 			create_pop = {
-				culture = gondi
+				culture = oriya
 				religion = animist
 				size = 44221
 			}
